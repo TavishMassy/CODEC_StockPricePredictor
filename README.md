@@ -56,8 +56,8 @@ On the out-of-sample 1-year validation set (252 trading days):
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/TavishMassy/CODEC_StockPricePredictor
+   cd CODEC_StockPricePredictor
    ```
 2. Install the required libraries:
    ```bash
